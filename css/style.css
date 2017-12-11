@@ -623,13 +623,16 @@ div#skills {
 }
 
 span.value {
-    transform: rotate(-90deg);
-    display: inline-block;
-    margin: 6em 0;
-    color: #fff;
-    font-weight: 800;
-    letter-spacing: 2px;
-    font-size: 1em;
+	/* [disabled]transform: rotate(-90deg); */
+	display: inline-block;
+	margin-top: 5em;
+	margin-right: 1em;
+	margin-left: 1em;
+	margin-bottom: 6em;
+	color: #fff;
+	font-weight: 800;
+	letter-spacing: 2px;
+	font-size: 1em;
 }
 
 
